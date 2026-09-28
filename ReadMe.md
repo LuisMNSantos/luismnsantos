@@ -1,6 +1,6 @@
-# Hi, I'm Luís Santos 👋
+#                             Hi, I'm Luís Santos 👋
 
-Master's student in Software Engineering @ ISEP · BSc in Informatic Engineering
+Master's student in Software Engineering @ ISEP · BSc in Informatic Engineering @ ESTG - ULO
 
 ---
 
