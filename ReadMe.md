@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lu%C3%ADs-santos-434376281/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:luismanuelsantos2801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://instagram.com/luiiss_iantoss"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://instagram.com/luiiss_santoss"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitch.tv/ItzLuygi"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat-square&logo=Twitch&logoColor=white" alt="Twitch"></a>
 </p>
 
